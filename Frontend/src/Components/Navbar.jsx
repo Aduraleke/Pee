@@ -89,6 +89,7 @@ const MenuItem = styled(motion.li)`
 `;
 
 const NavBar = () => {
+  
   const [click, setClick] = useState(false);
 
   const { scroll } = useLocomotiveScroll();

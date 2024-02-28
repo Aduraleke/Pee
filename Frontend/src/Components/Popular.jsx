@@ -15,8 +15,7 @@ const Populars = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
-  width: 75%;
+  gap: 10px; 
   margin: auto;
   height: 90vh;
   justify-content: center;
@@ -32,7 +31,6 @@ const Populars = styled.div`
 const PopularItems = styled.div`
   margin-top: 50px;
   display: flex;
-  width: 60%;
   justify-content: center;
   align-items: center;
 `;
