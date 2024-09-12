@@ -108,6 +108,7 @@ const Loader = () => {
               strokeWidth="2"
             />
           </motion.svg>
+          <h1>thanks</h1>
         </Container>
 
     </>
